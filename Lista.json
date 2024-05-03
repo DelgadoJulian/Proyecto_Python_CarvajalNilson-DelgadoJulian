@@ -1,0 +1,353 @@
+[
+    {
+    "Grupo ": "1",
+        "Trainer": "Michael",
+        "Estudiantes": [
+        {
+            "Identificacion": "10235687774",
+            "Nombres": "Mauricio Alexander",
+            "Apellidos": "Fabio Garzon",
+            "Direcion": "Calle 9 # 11-2",
+            "Acudiente": "Maria Fernanda",
+            "Celular":"3154468785",
+            "Telefono":"01800254",
+            "Estado":"Inscrito",
+            "Riesgo":"Medio"
+        },
+        {
+            "Identificacion": "1245886533",
+            "Nombres": "Yessica Pacheco",
+            "Apellidos": "Ortega Tarazona",
+            "Direcion": "Carrera 7 # 9-10",
+            "Acudiente": "Fernando Falavela",
+            "Celular":"315548785",
+            "Telefono":"124555896",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"   
+        },
+        {
+            "Identificacion": "105724601",
+            "Nombres": "Eduardo Antonio",
+            "Apellidos": "Ascanio Becerra",
+            "Direcion": "Calle 7 # 8-11",
+            "Acudiente": "Trinidad Flores",
+            "Celular":"3208383112",
+            "Telefono":"468523412",
+            "Estado":"Inscrito",
+            "Riesgo":"Alto"
+        },
+        { 
+            "Identificacion": "10935919777",
+            "Nombres": "Maria Del Carmen",
+            "Apellidos": "Becerra Rincon",
+            "Direcion": "Avenida 1 Calle 5 # 11",
+            "Acudiente": "Fabricio Ortega",
+            "Celular":"3164589974",
+            "Telefono":"556334852",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        },
+        { 
+            "Identificacion": "45603235",
+            "Nombres": "Antonia",
+            "Apellidos": "Mendoza Ortiz",
+            "Direcion": "Carrera 7 # 12-2",
+            "Acudiente": "Luz Stella",
+            "Celular":"31822960554",
+            "Telefono":"0125568744",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        },
+        { 
+            "Identificacion": "102356698",
+            "Nombres": "Jhonny Alexander",
+            "Apellidos": "Davila Parada",
+            "Direcion": "Avenida 5 Carrera 8",
+            "Acudiente": "Liseth Carmona",
+            "Celular":"3164522315",
+            "Telefono":"122077845",
+            "Estado":"Inscrito",
+            "Riesgo":"Alto"
+        },
+        { 
+            "Identificacion": "10963598875",
+            "Nombres": "Maria Fernanda",
+            "Apellidos": "Rodriguez",
+            "Direcion": "Avenida 8 carrera 10",
+            "Acudiente": "Nilson Cardenas",
+            "Celular":"313589146",
+            "Telefono":"7893457311",
+            "Estado":"Inscrito",
+            "Riesgo":"Medio"
+        },
+        { 
+            "Identificacion": "60423277",
+            "Nombres": "Benjamin",
+            "Apellidos": "Meneses Leonardo",
+            "Direcion": "Carrera 5 # 9-10",
+            "Acudiente": "Francisco Teodoro",
+            "Celular":"3133003399",
+            "Telefono":"1093566451",
+            "Estado":"Inscrito",
+            "Riesgo":"Medio"
+        },
+        { 
+            "Identificacion": "1093596422",
+            "Nombres": "Pedro Camilo",
+            "Apellidos": "delgado ascanio",
+            "Direcion": "Calle 12 # 1-6",
+            "Acudiente": "Ewduar alfonso",
+            "Celular":"3122104554",
+            "Telefono":"312256698",
+            "Estado":"Inscrito",
+            "Riesgo":"Alto"
+        },
+        { 
+            "Identificacion": "1093664487",
+            "Nombres": "Yomari Sandrith",
+            "Apellidos": "Cristancho Pabon",
+            "Direcion": "Carrera 4 #11-12",
+            "Acudiente": "Zuelima Suescun",
+            "Celular":"3169607451",
+            "Telefono":"12336542",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        }
+        ]
+
+    }, 
+    {
+        "Grupo ": "2",
+        "Trainer": "Michael",
+        "Estudiantes": [
+        {
+            "Identificacion": "1",
+            "Nombres": "Sandra",
+            "Apellidos": "Mejia Pacheco",
+            "Direcion": "carrera 5 # 2-1",
+            "Acudiente": "Franscisco Pabon",
+            "Celular":"3156698542",
+            "Telefono":"193564478",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"  
+        },
+        { 
+            "Identificacion": "2",
+            "Nombres": "Jose Manuel",
+            "Apellidos": "Patiño Villamizar",
+            "Direcion": "Avenida 13 Calle 7",
+            "Acudiente": "Francisco Gelvez",
+            "Celular":"3152296074",
+            "Telefono":"125598873",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        },
+        {
+            "Identificacion": "3",
+            "Nombres": "Don Patricio",
+            "Apellidos": "Alvarado",
+            "Direcion": "Calle 9 # 9-11",
+            "Acudiente": "Javier Avendaño",
+            "Celular":"3132357610",
+            "Telefono":"12336356",
+            "Estado":"Inscrito",
+            "Riesgo":"Medio"
+        },
+        {
+            "Identificacion": "4",
+            "Nombres": "Juan Francisco",
+            "Apellidos": "Gomez",
+            "Direcion": "Carrera 7 #5-6",
+            "Acudiente": "Ricardo Armeida",
+            "Celular":"3142263598",
+            "Telefono":"23557418",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        }, 
+        {
+            "Identificacion": "5",
+            "Nombres": "Maria Almudena",
+            "Apellidos": "Calderon",
+            "Direcion": "Calle 2 # 4-2",
+            "Acudiente": "Ramon Sanchez",
+            "Celular":"3185542137",
+            "Telefono":"2966487",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        }, 
+        {
+            "Identificacion": "6",
+            "Nombres": "Johimar Alirio",
+            "Apellidos": "Arevalo Boorquez ",
+            "Direcion": "Carrera 6 # 2-1",
+            "Acudiente": "Santiago Arevalo",
+            "Celular":"3123702396",
+            "Telefono":"32695874",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        },
+        {
+            "Identificacion": "7",
+            "Nombres": "Andres Steven",
+            "Apellidos": "Coneo Pabon ",
+            "Direcion": "Calle 11 Carrera 9-10",
+            "Acudiente": "Bob Esponja",
+            "Celular":"3182263541",
+            "Telefono":"32365528",
+            "Estado":"Inscrito",
+            "Riesgo":"Medio" 
+        }, 
+        {
+            "Identificacion": "8",
+            "Nombres": "Andres Sebastian",
+            "Apellidos": "Delgado Contreras ",
+            "Direcion": "Carrera 5 # 4-5",
+            "Acudiente": "Romelia Delgado",
+            "Celular":"3224687742",
+            "Telefono":"312556541",
+            "Estado":"Inscrito",
+            "Riesgo":"Alto"
+        },
+        {
+            "Identificacion": "9",
+            "Nombres": "Gabriel Alberto",
+            "Apellidos": "Delgado Contreras ",
+            "Direcion": "Calle 5 # 7-8",
+            "Acudiente": "Romelia Delgado",
+            "Celular":"3132357610",
+            "Telefono":"317445819",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        },
+        {
+            "Identificacion": "10",
+            "Nombres": "Sharol Valentina",
+            "Apellidos": "Garcia Marquez ",
+            "Direcion": "Avenida 4 Carrera 5",
+            "Acudiente": "Karen Villegas",
+            "Celular":"312458674",
+            "Telefono":"31254688",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+        }
+        ]
+    },
+    {
+        "Grupo": "3",
+        "Trainer": "Miguel",
+        "Estudiantes":[
+            {
+            "Identificacion": "1",
+            "Nombres": "Jose antonio",
+            "Apellidos": "Mercado Lopez",
+            "Direcion": "Carrera 6 # 9-8",
+            "Acudiente": "Kerly Mercado",
+            "Celular":"3156907894",
+            "Telefono":"0784567832",
+            "Estado":"Inscrito",
+            "Riesgo":"Alto"
+            },
+            {
+            "Identificacion": "2",
+            "Nombres": "Kleiner jose",
+            "Apellidos": "Cardenas Meza",
+            "Direcion": "Carrera 9 # 11-5",
+            "Acudiente": "Graciela Gomez",
+            "Celular":"3214568795",
+            "Telefono":"9994536353",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+            },
+            {
+            "Identificacion": "3",
+            "Nombres": "Yurlei Maria",
+            "Apellidos": "Soto Lazzo",
+            "Direcion": "Carrera 5 # 7-10",
+            "Acudiente": "Nelson Eduardo",
+            "Celular":"3196795044",
+            "Telefono":"56893498398",
+            "Estado":"Inscrito",
+            "Riesgo":"Medio"
+            },
+            {
+            "Identificacion": "4",
+            "Nombres": "Francisco",
+            "Apellidos": "Corso Del Monte",
+            "Direcion": "Avenida 3 Carrera #7-8",
+            "Acudiente": "Nilson Carvajal",
+            "Celular":"312564857",
+            "Telefono":"225244857",
+            "Estado":"Inscrito",
+            "Riesgo":"Alto"
+            },
+            {
+            "Identificacion": "5",
+            "Nombres": "Julian David",
+            "Apellidos": "Delgado Villamizar",
+            "Direcion": "Carrera 5 # 9-10",
+            "Acudiente": "Maria Villamizar",
+            "Celular":"3182296074",
+            "Telefono":"4567916497",
+            "Estado":"Inscrito",
+            "Riesgo":"Alto"
+            },
+            {
+            "Identificacion": "6",
+            "Nombres": "Pedro Miguel",
+            "Apellidos": "Bustamante Arenas",
+            "Direcion": "Carrera 45 # 9-8",
+            "Acudiente": "Francisco Leonor",
+            "Celular":"3183323233",
+            "Telefono":"8343422397",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+            },
+            {
+            "Identificacion": "7",
+            "Nombres": "Luis Miguel",
+            "Apellidos": "Caicedo Bermon",
+            "Direcion": "Carrera 4 # 14-2",
+            "Acudiente": "NN",
+            "Celular":"314565388",
+            "Telefono":"4545565632",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+            },
+            {
+            "Identificacion": "8",
+            "Nombres": "Josua fernei",
+            "Apellidos": "Fuentes Bustamante",
+            "Direcion": "Carrera 2 # 17-29",
+            "Acudiente": "Rosa Eva",
+            "Celular":"314225775",
+            "Telefono":"345659448",
+            "Estado":"Inscrito",
+            "Riesgo":"Medio"
+            },
+            {
+            "Identificacion": "9",
+            "Nombres": "Alfonso Yesid",
+            "Apellidos": "Perez Ortega",
+            "Direcion": "Carrera 9 # 51-27",
+            "Acudiente": "Francisco Leonor",
+            "Celular":"3146794943",
+            "Telefono":"7539202023",
+            "Estado":"Inscrito",
+            "Riesgo":"Bajo"
+            },
+            {
+            "Identificacion": "10",
+            "Nombres": "Jesus Alfredo",
+            "Apellidos": "Ermeregildo Delgada",
+            "Direcion": "Carrera 4 # 13-22",
+            "Acudiente": "NN",
+            "Celular":"3223456445",
+            "Telefono":"1046589345",
+            "Estado":"Inscrito",
+            "Riesgo":"Medio"   
+            }
+        ]
+
+    }
+   
+]
